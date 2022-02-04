@@ -25,7 +25,7 @@ Having relocated to Vilnius I am looking to specialize in an IT role, looking fo
 - HTML, CSS/SCSS
 - PHP
 - git
-- Linux shell, remote administration, web server setup
+- Linux shell, remote administration, web server setup (Apache, nginx)
 
 ### English
 
