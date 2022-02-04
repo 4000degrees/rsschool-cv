@@ -4,12 +4,9 @@ Born April 21, 1995 in Minsk, Belarus.
 
 In 2021 relocated to Vilnius, Lithuania.
 
-> [4000degrees@gmail.com](mailto:4000degrees@gmail.com)
->
-> [t.me/atomicnuclei](https://t.me/atomicnuclei)
->
-> [linkedin.com/in/4000degrees](https://www.linkedin.com/in/4000degrees)
->
+> [4000degrees@gmail.com](mailto:4000degrees@gmail.com) \
+> [t.me/atomicnuclei](https://t.me/atomicnuclei) \
+> [linkedin.com/in/4000degrees](https://www.linkedin.com/in/4000degrees) \
 > [github.com/4000degrees](https://github.com/4000degrees)
 
 ## About Me
