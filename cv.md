@@ -2,7 +2,7 @@
 
 Born April 21, 1995 in Minsk, Belarus.
 
-In 2021 relocated to Vlinius, Lithuania.
+In 2021 relocated to Vilnius, Lithuania.
 
 > [4000degrees@gmail.com](mailto:4000degrees@gmail.com)
 >
